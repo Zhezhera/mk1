@@ -1,0 +1,50 @@
+/*WRAPPER*/
+#wrapper{
+    width: 921px;
+    margin: 0px auto;
+}
+/*HEADER*/
+#header{
+    height: 354px;
+}    
+#header_logo{
+    margin: 41px 0 0 18px;
+}
+#header_menu{
+    float: right;
+    margin: 10px 74px 0 0;
+}
+#header_menu_upper{
+    
+}
+#header_menu_upper>li+li{
+    background: url("../img/common-menu-separator.png") left center no-repeat;
+}
+#header_menu_upper a{
+    font-size: 8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #898989;
+ 
+}
+#header_menu_main{
+    background: url("../img/main-menu-bg.png") left top repeat-x;
+    border-radius: 3px;
+    height: 36px;
+    margin-top: 9px;
+}
+#header_menu_main a{
+    text-decoration: none; 
+    color: #ffffff;  
+        
+}
+#header_menu_main a:hover{
+    text-decoration: none; 
+    color: #3460a0;  
+    background-color: #ffffff;
+}
+#header_menu li{
+    display: inline-block;
+    vertical-align: middle;
+}
+/*HEADER END*/
