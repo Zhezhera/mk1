@@ -8,30 +8,26 @@
     height: 354px;
 }    
 #header_logo{
+    float: left;
     margin: 41px 0 0 18px;
 }
 #header_menu{
-    float: right;
     margin: 10px 74px 0 0;
 }
 #header_menu_upper{
-    
-}
-#header_menu_upper>li+li{
-    background: url("../img/common-menu-separator.png") left center no-repeat;
+    text-align: right;
 }
 #header_menu_upper a{
-    font-size: 8px;
     text-transform: uppercase;
     text-decoration: none;
     color: #898989;
- 
 }
 #header_menu_main{
     background: url("../img/main-menu-bg.png") left top repeat-x;
     border-radius: 3px;
     height: 36px;
     margin-top: 9px;
+    text-align: justify;
 }
 #header_menu_main a{
     text-decoration: none; 

@@ -14,7 +14,7 @@
                     <ul id="header_menu_upper">
                         <li><a href="">login</a></li>
                         <li><a href="">sitemap</a></li>
-                        <li><a href="">contact us</a></li>
+                        <li><a href="">contactus</a></li>
                     </ul>
                     <ul id="header_menu_main">
                         <li><a href="">home</a></li>
