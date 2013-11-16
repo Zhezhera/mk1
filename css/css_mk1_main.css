@@ -12,7 +12,10 @@
     margin: 41px 0 0 18px;
 }
 #header_menu{
-    margin: 10px 74px 0 0;
+    margin: 10px 74px 0 348px;
+}
+#header_menu li{
+    display: inline-block;
 }
 #header_menu_upper{
     text-align: right;
@@ -27,7 +30,7 @@
     border-radius: 3px;
     height: 36px;
     margin-top: 9px;
-    text-align: justify;
+    text-align: right;
 }
 #header_menu_main a{
     text-decoration: none; 
@@ -38,9 +41,5 @@
     text-decoration: none; 
     color: #3460a0;  
     background-color: #ffffff;
-}
-#header_menu li{
-    display: inline-block;
-    vertical-align: middle;
 }
 /*HEADER END*/

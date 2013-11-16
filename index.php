@@ -9,7 +9,9 @@
     <body>
         <div id="wrapper">
             <div id="header">
-                <img id="header_logo" src="img/logo.png" alt="logo" />       
+                <div id="header_logo">
+                    <img src="img/logo.png" alt="logo" />   
+                </div>
                 <div id="header_menu">
                     <ul id="header_menu_upper">
                         <li><a href="">login</a></li>
